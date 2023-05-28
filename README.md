@@ -34,6 +34,7 @@ Durante el desarrollo del proyecto, se probaron varios modelos de regresión par
 - `DecisionTreeRegressor`: Modelo de regresión basado en árboles de decisión que divide los datos en función de diferentes características.
 - `RandomForestRegressor`: Modelo de regresión basado en un conjunto de árboles de decisión, donde cada árbol vota por la predicción final.
 - `SVR` (Support Vector Regressor): Modelo de regresión basado en máquinas de vectores de soporte que encuentra un hiperplano óptimo para separar los puntos de datos.
+- `XGBoostRegressor`: (Extreme Gradient Boosting) es una biblioteca de aprendizaje automático de código abierto y ampliamente utilizada que se basa en el algoritmo de refuerzo de gradiente. XGBoostRegressor es la implementación de XGBoost específicamente diseñada para problemas de regresión.
 
 Además de los modelos individuales, se exploraron técnicas de ensamblaje para mejorar el rendimiento predictivo. Estas técnicas incluyen:
 
