@@ -49,6 +49,6 @@ Para encontrar los mejores hiperparámetros de cada modelo, se utilizó la técn
 ## Feature Engineering
 En la documentación del dataset original se encontraba la siguiente tabla en la que se especifica el valor que puede tomar cada variable.
 Haciendo un EDA del dataset original se llega a la conclusión de que hay una relación entre ciertas variables y se procede a imputarlas directamente en el dataset nuevo para predecir con estos nuevos datos.
-![Scikit-learn](data/tabla_original.png)
+![Scikit-learn](src/data/tabla_original.png)
 
 
